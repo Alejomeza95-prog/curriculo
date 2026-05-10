@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.react-flow__edges {
+  z-index: 10 !important;
+  pointer-events: none;
+}
+
+.react-flow__edge {
+  z-index: 10 !important;
+}
+
+.react-flow__nodes {
+  z-index: 5 !important;
+}

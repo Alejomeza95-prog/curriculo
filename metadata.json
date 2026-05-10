@@ -1,0 +1,6 @@
+{
+  "name": "CurricuMap - Gestor de Mallas Académicas",
+  "description": "Plataforma interactiva para el diseño, visualización e importación de currículos académicos por componentes formativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
