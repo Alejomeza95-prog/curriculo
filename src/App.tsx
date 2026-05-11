@@ -248,10 +248,10 @@ export default function App() {
             source: preId,
             target: c.id,
             animated: true,
-            style: { stroke: '#94a3b8', strokeWidth: 2 },
+            style: { stroke: '#cbd5e1', strokeWidth: 1.8 },
             markerEnd: {
               type: MarkerType.ArrowClosed,
-              color: '#94a3b8',
+              color: '#cbd5e1',
             },
           });
         }
